@@ -1,3 +1,0 @@
-- **compounded.csv**: unified labeled data csv
-- **labeled_data.csv**: data sourced from [t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language/tree/master/data)
-- **test_labels.csv, test.csv, train.csv**: data sourced from [Toxic Comment Classification Challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data)
